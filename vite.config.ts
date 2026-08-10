@@ -6,7 +6,7 @@ import { fileURLToPath, URL } from 'node:url';
 // For GitHub Pages deployment, set base to '/<repo-name>/' if deploying to a project page.
 // When deploying to a custom domain or user page (username.github.io), keep base as '/'.
 export default defineConfig({
-  base: './',
+ base: '/Portfolio1-Bolt/',
   plugins: [react()],
   resolve: {
     alias: {

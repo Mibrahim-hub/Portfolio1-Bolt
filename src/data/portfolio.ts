@@ -29,7 +29,7 @@ export const profile = {
   linkedin:'https://www.linkedin.com/in/mohamed-ibrahim-09aab01b2',
   github: 'https://github.com/mohamed-ibrahim',
   location: 'Saudi Arabia, Abha',
-cvPath: `${import.meta.env.BASE_URL}Mohamed-Ibrahim-CV.pdf`,
+cvPath: `${import.meta.env.BASE_URL}Mohamed-Ibrahim-CV-Final.pdf`,
 };
 
 export const stats = [

@@ -23,7 +23,7 @@ export const profile = {
   subtitle:
     'Helping businesses build secure, reliable and scalable IT infrastructure.',
   summary:
-    '5+ years of experience in IT Support, Windows Server, Active Directory, Office 365, VMware, Azure, Networking, FortiGate Firewall, Cisco, and IT Infrastructure.',
+    'IT Support professional with hands-on experience in technical troubleshooting, end-user support, Windows Server, Active Directory, Microsoft 365, and networking, with a strong interest in IT infrastructure, virtualization, and cloud technologies., Cisco, and IT Infrastructure.',
   email: 'IT.Systemadmin91@gmail.com',
   phone: '0538377925',
   linkedin:'https://www.linkedin.com/in/mohamed-ibrahim-09aab01b2',

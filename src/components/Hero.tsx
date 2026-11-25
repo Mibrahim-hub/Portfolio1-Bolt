@@ -7,7 +7,7 @@ import { useCountUp } from '@/hooks/useCountUp';
 import { fadeInUp } from '@/lib/animations';
 import { useInView } from 'framer-motion';
 import { useRef } from 'react';
-const profilePhoto = `${import.meta.env.BASE_URL}github_download.jpeg`;
+const profilePhoto = `${import.meta.env.BASE_URL}download.jpeg`;
 
 function Counter({ value, suffix, label }: { value: number; suffix: string; label: string }) {
   const ref = useRef(null);
